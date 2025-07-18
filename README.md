@@ -1,4 +1,8 @@
-# Lorien-AppImage
+# Lorien-AppImage 🐧
+
+[![GitHub Downloads](https://img.shields.io/github/downloads/Portable-Linux-Apps/Lorien-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/Portable-Linux-Apps/Lorien-AppImage/releases/latest)
+[![CI Build Status](https://github.com//Portable-Linux-Apps/Lorien-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/Portable-Linux-Apps/Lorien-AppImage/releases/latest)
+
 
 This repo takes the [official Lorien binaries ](https://github.com/mbrlabs/Lorien/releases) and turns them into an AppImage. 
 
